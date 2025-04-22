@@ -1,6 +1,5 @@
 import streamlit as st
 st.image("gases ideales.png")
-st.set_page_config(page_title="Calculadora de Gases Ideales", layout="centered")
 
 R = 0.0821  # L·atm/mol·K
 
